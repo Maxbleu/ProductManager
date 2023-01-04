@@ -1,0 +1,3 @@
+{
+  "SqlConnection": "Data Source=127.0.0.1;Initial Catalog=DB_Products;User ID=Administrator_DB_Products;Password=1234;Trust Server Certificate=True"
+}
